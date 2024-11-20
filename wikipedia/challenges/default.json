@@ -4,14 +4,6 @@
   "default": true,
   "schedule": [
     {
-      "name": "delete-index",
-      "operation": "delete-index"
-    },
-    {
-      "name": "create-index",
-      "operation": "create-index"
-    },
-    {
       "name": "check-cluster-health",
       "operation": "check-cluster-health"
     },
